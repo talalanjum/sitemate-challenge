@@ -1,0 +1,14 @@
+.container {
+  height: 100%;
+  display: flex;
+  padding: 36px 12px 0px 12px;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.buttonsWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}

@@ -1,0 +1,10 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 12px;
+}
+
+.buttonWrapper {
+  width: 100%;
+  text-align: right;
+}
